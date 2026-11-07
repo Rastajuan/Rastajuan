@@ -10,9 +10,7 @@ Mi orientación técnica se centra en el desarrollo backend con **Python**, las 
 
 ### Experiencia y formación práctica
 
-Mi trayectoria profesional en **Transports Metropolitans de Barcelona (TMB)** comenzó en **2004 en el ámbito del transporte**, no como desarrollador de software.
-
-**Durante las prácticas académicas de DAW realizadas en TMB**, colaboré en una aplicación interna relacionada con Bicing. Entre las tareas formativas realizadas se incluyeron:
+Mi trayectoria profesional en **Transports Metropolitans de Barcelona (TMB)** comenzó en **2004 en el sector del transporte**. Posteriormente, durante mis **prácticas académicas de DAW en TMB**, colaboré en el desarrollo de una aplicación interna relacionada con Bicing. Entre las tareas formativas realizadas se incluyeron:
 
 - Migración entre versiones de Angular y adaptación de módulos.
 - Trabajo con una base de código existente.
@@ -47,9 +45,7 @@ My technical focus is on **Python backend development**, **REST APIs**, database
 
 ### Professional background and practical training
 
-I have worked at **Transports Metropolitans de Barcelona (TMB)** since **2004 in the transport sector**, **not as a software developer**.
-
-**During my DAW academic internship at TMB**, I contributed to an internal application associated with Bicing. My supervised development work included:
+My professional career at **Transports Metropolitans de Barcelona (TMB)** began in **2004 in the transport sector**. Later, during my **DAW academic internship at TMB**, I contributed to the development of an internal application associated with Bicing. My supervised development work included:
 
 - Migrating between Angular versions and adapting modules.
 - Working with an existing codebase.
