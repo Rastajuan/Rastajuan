@@ -19,6 +19,8 @@ Mi trayectoria profesional en **Transports Metropolitans de Barcelona (TMB)** co
 - Uso de Angular, TypeScript, Angular Material y PrimeNG.
 - Colaboración en un equipo con metodología Scrum.
 
+**Otro proyecto académico de DAW:** participé en el desarrollo de un **CRM**, encargándome de la parte de **JavaScript del frontend**. Esta experiencia corresponde a un trabajo formativo, no a un puesto profesional.
+
 ### Tecnologías
 
 **Enfoque actual:** `Python` · `FastAPI` · `SQL` · `MySQL` · `Git` · `GitHub` · `REST APIs`
@@ -53,6 +55,8 @@ I have worked at **Transports Metropolitans de Barcelona (TMB)** since **2004 in
 - Working with an existing codebase.
 - Using Angular, TypeScript, Angular Material, and PrimeNG.
 - Collaborating within a Scrum-based team.
+
+**Additional DAW academic project:** I contributed to a **CRM** and was responsible for the **frontend JavaScript** work. This was academic project experience, not a professional software development role.
 
 ### Technologies
 
